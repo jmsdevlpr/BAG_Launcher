@@ -33,7 +33,7 @@
     "InstallUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/maxwelldormanisgay/refs/heads/main/download.txt",
     "UpdateUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/maxwelldormanisgay/refs/heads/main/update.txt",
     "ExecutablePath": "Game.exe",
-    "MinSpecs": "CPU: Intel Core i2-Any gen, RAM: 2GB, GPU: GT 650",
+    "MinSpecs": "CPU: Intel Core i3-Any gen, RAM: 2GB, GPU: GT 650",
     "Released": true,
     "ReleaseDate": "8/03/2025",
     "CanBePlayed": true
