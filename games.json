@@ -36,6 +36,6 @@
     "MinSpecs": "CPU: Intel Core i3-Any gen, RAM: 2GB, GPU: GT 650",
     "Released": true,
     "ReleaseDate": "8/03/2025",
-    "CanBePlayed": true
+    "CanBePlayed": false
   }
 ]
