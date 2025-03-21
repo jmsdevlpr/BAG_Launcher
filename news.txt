@@ -1,5 +1,6 @@
 Launcher News: 
-  • Launcher has been slightly redesigned.
-  • Several bugs have been fixed.
+  • Added library and store.
+  • Revamped home page
 Game News:
-  • Drill the Opps PT1 released.
+  • Silly Rausage Re-Released
+  • Rausage Rampage Beta released (Public Test)
