@@ -1,1 +1,1 @@
-https://github.com/jmsdevlpr/BAG_Launcher/releases/download/v0.0-test/BAG.Launcher.zip
+https://github.com/jmsdevlpr/BAG_Launcher/releases/download/V15.0/BAG.Launcher.exe
