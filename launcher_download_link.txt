@@ -1,1 +1,1 @@
-https://github.com/jmsdevlpr/BAG_Launcher/releases/download/V15.0/BAG.Launcher.New.exe
+https://github.com/jmsdevlpr/BAG_Launcher/releases/download/v500.0/BAG.Launcher.exe
